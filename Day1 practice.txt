@@ -1,0 +1,23 @@
+#notes of oops
+1. object oriented programming language 
+2. procedural oriented programming language 
+
+1. why objects?
+creating individual objects and describing about its behaviour and properties then it will be easy.
+ex: 
+object -men
+name, date of birth, address, pincode etcc...
+software objects :
+some data associated with them and can perform certain functions.
+
+2. why class?
+beacuse it is a user defined data struture that contains hint of information. class is like a unfilled form 
+
+3. why objects?
+because it provides full insformation about the class  objects is lke filled form 
+
+
+
+
+
+
